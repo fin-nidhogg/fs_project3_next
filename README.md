@@ -1,4 +1,4 @@
-Full Stack **React & Next.js projekti **
+# Full Stack: React & Next.js projekti
 
 # Sisällysluettelo
 
@@ -93,13 +93,17 @@ sovellukseen.
 ## Verkkosivuni osoite 
 
 Sivusto löytyy osoitteesta:\
-https://fs-project3-acme.vercel.app/\
+```
+https://fs-project3-acme.vercel.app/
+```   
 Halutessasi voit testata toimintoja tunnuksilla <user@nextmail.com> ja
 PWD: 123456
 
 ## Linkki GitHub repositorioon
 
+```
 https://github.com/fin-nidhogg/fs_project3_next
+```   
 
 ## Linkki projektin videoesitykseen
 
@@ -108,4 +112,6 @@ https://github.com/fin-nidhogg/fs_project3_next
 Sähköiset
 
 Vercel Inc 2024. Learn Next.js. Viitattu 9.5.2024.
+```
 <https://nextjs.org/learn/dashboard-app>
+```
