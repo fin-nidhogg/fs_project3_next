@@ -59,49 +59,34 @@ voidaan kuvata seuraavasti:
 **1. Julkinen kotisivu:** Käyttäjät voivat nähdä dashboardin kotisivun
 ilman kirjautumista.
 
-![A screenshot of a computer Description automatically
-generated](media/image1.png){width="5.2204724409448815in"
-height="2.559055118110236in"}
+![A screenshot of a dash](media/image1.png)
 
 **2. Kirjautumissivu:** Turvallinen kirjautuminen käyttäen
 NextAuth.js-kirjastoa, mikä mahdollistaa autentikaation eri strategioita
 käyttäen.
 
-![A screenshot of a login form Description automatically
-generated](media/image2.png){width="5.2204724409448815in"
-height="3.173228346456693in"}
+![A screenshot of a login page](media/image2.png)
 
 **3. Suojatut Dashboard-sivut:** Vain kirjautuneet käyttäjät voivat
 nähdä tärkeät taloustiedot ja toiminnot.
 
-![A screenshot of a computer Description automatically
-generated](media/image3.png){width="5.2204724409448815in"
-height="2.5039370078740157in"}
+![A screenshot of a Dashboar overwiev page](media/image3.png)
 
 **4. Laskun lisäys, muokkaus ja poisto:** Käyttäjät voivat hallinnoida
 laskujaan suoraan dashboardilta.
 
-![A screenshot of a computer Description automatically
-generated](media/image4.png){width="5.2204724409448815in"
-height="2.5039370078740157in"}
+![A screenshot of a Invoices page](media/image4.png)
 
-![A white background with black lines Description automatically
-generated with medium
-confidence](media/image5.png){width="5.2204724409448815in"
-height="1.2874015748031495in"}
+![A screenshor of a Edit Invoice page](media/image5.png)
 
-![A white background with black lines Description automatically
-generated](media/image6.png){width="5.2204724409448815in"
-height="1.2716535433070866in"}
+![A screenshot of a Create Invoice](media/image6.png)
 
 **5. Tietokanta:** Projektissa käytetään PostgreSQL -tietokantaa
 käyttäjätietojen ja laskutietojen tallentamiseen. Myöhemmässä vaiheessa
 kurssia opitaan, miten tietokanta perustetaan ja yhdistetään
 sovellukseen.
 
-![A screenshot of a computer Description automatically
-generated](media/image7.png){width="5.2204724409448815in"
-height="2.905511811023622in"}
+![A screenshot of a database console](media/image7.png)   
 
 # Linkit
 
