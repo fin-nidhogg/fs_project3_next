@@ -7,7 +7,7 @@
 [3 Sivuston rakenne](#sivuston-rakenne)   
 [4 Linkit](#linkit)   
 [4.1 Verkkosivuni osoite](#verkkosivuni-osoite)   
-[4.2 Linkki GitHub repositorioon](#linkki-github-repositorioon)]   
+[4.2 Linkki GitHub repositorioon](#linkki-github-repositorioon)
 [4.3 Linkki projektin videoesitykseen](#linkki-projektin-videoesitykseen)   
 [5 Lähteet](#lähteet)   
 
