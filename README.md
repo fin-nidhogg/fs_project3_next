@@ -107,6 +107,10 @@ https://github.com/fin-nidhogg/fs_project3_next
 
 ## Linkki projektin videoesitykseen
 
+```
+https://video.laurea.fi/media/FS_3_projekti/0_6q54m9e2?st=0
+```   
+
 #  Lähteet
 
 Sähköiset
