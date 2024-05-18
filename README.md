@@ -113,5 +113,5 @@ Sähköiset
 
 Vercel Inc 2024. Learn Next.js. Viitattu 9.5.2024.
 ```
-<https://nextjs.org/learn/dashboard-app>
+https://nextjs.org/learn/dashboard-app
 ```
