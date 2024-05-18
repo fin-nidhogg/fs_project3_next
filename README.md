@@ -92,7 +92,7 @@ sovellukseen.
 
 ## Verkkosivuni osoite 
 
-Sivusto löytyy osoitteesta:\
+Sivusto löytyy osoitteesta:
 ```
 https://fs-project3-acme.vercel.app/
 ```   
